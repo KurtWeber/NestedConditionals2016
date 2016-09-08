@@ -1,0 +1,6 @@
+c:\users\wecancodeit\documents\visual studio 2015\Projects\NestedConditionals2016\NestedConditionals2016\bin\Debug\NestedConditionals2016.exe.config
+c:\users\wecancodeit\documents\visual studio 2015\Projects\NestedConditionals2016\NestedConditionals2016\obj\Debug\NestedConditionals2016.csprojResolveAssemblyReference.cache
+c:\users\wecancodeit\documents\visual studio 2015\Projects\NestedConditionals2016\NestedConditionals2016\bin\Debug\NestedConditionals2016.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\NestedConditionals2016\NestedConditionals2016\bin\Debug\NestedConditionals2016.pdb
+c:\users\wecancodeit\documents\visual studio 2015\Projects\NestedConditionals2016\NestedConditionals2016\obj\Debug\NestedConditionals2016.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\NestedConditionals2016\NestedConditionals2016\obj\Debug\NestedConditionals2016.pdb
